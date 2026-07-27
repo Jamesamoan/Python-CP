@@ -1,0 +1,6 @@
+print("My name is Jeffrey Amoani")
+print("Am 13 years old")
+print("My Dream is to be a pro Code")
+print("THis is my first python project")
+print(20*36)
+print("The sum of 5+5 is",(5+5))

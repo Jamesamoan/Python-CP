@@ -79,4 +79,4 @@ for slot in range(1, 4):
 
 print(f"\nCustomers served : {customers_served}")
 print(f"Total sales      : {total_sales}")
-print("Grocery billing closed. Goodbye!")
+print("Grocery billing closed. G")
